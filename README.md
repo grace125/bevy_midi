@@ -21,9 +21,9 @@ This plugin allows you to read or write midi data for a selected midi input.</br
 
 Run the examples using:</br>
 
-Output midi: `cargo run --release --example output`</br>
-Terminal only: `cargo run --release --example minimal`</br>
-Virtual Piano: `cargo run --release --example piano`
+Output midi: `cargo run --example output`</br>
+Terminal only: `cargo run --example minimal`</br>
+Virtual Piano: `cargo run --example piano`
 
 Running the piano example:</br>
 
